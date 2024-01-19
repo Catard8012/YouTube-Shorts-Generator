@@ -48,7 +48,7 @@ def add_subtitles_to_clip(video_clip, subtitles_batch):
     clips = [video_clip]
     for subtitle in subtitles_batch:
         start, end = subtitle['start'], subtitle['end']
-        txt_clip = mp.TextClip(subtitle['word'], fontsize=110, color='white', font='Arial-Bold')
+        txt_clip = mp.TextClip(subtitle['word'], fontsize=85, color='white', font='Arial-Bold', stroke_color='black', stroke_width=4)
         txt_clip = txt_clip.set_position('center').set_duration(end - start).set_start(start)
         clips.append(txt_clip)
     return mp.CompositeVideoClip(clips)
