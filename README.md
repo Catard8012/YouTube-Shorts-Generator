@@ -1,4 +1,4 @@
-#YouTube Shorts Generator
+# YouTube Shorts Generator
 
 Welcome to my YouTube Shorts Generator! This is a fun little tool I made for creating YouTube Shorts with custom audio and subtitles. It's one of my first projects, and I'm excited to share it with the community.
 
