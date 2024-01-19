@@ -1,0 +1,7 @@
+moviepy
+whisper-timestamped
+requests
+numpy
+matplotlib
+onnxruntime
+torchaudio
