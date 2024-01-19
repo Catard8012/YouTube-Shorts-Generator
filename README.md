@@ -30,5 +30,5 @@ Run main.py to start creating your YouTube Short. The script will use your video
 
 # Credits
 
-    This project is inspired by all the creative folks out there making awesome content for YouTube.
+    This project is inspired by Yellojello YouTube videos.
     Big thanks to the teams behind the TikTok voice API and Whisper for their fantastic tools.
